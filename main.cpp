@@ -12,7 +12,6 @@ int main(void)
 	string imie;
 	int count = 0;
 
-	cout << losowa;
 	cout << "Wylosowalem liczbe od 1 do 100, postaraj sie ja odgadnac!" << endl;
 
 	while (zgadywana != losowa)
