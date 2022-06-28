@@ -8,8 +8,7 @@ int main (void)
       int losowa = rand () % 100 + 1;
       int zgadywana = 0;
 
-      cout << "Wylosowalem liczbe od 1 do 100, postaraj sie ja odgadnac!" <<
-	endl;
+      cout << "Wylosowalem liczbe od 1 do 100, postaraj sie ja odgadnac!" <<endl;
 
       while (zgadywana != losowa)
 	{
